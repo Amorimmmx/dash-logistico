@@ -4,7 +4,10 @@ Dashboard desenvolvido para análise de indicadores de logística e entregas, co
 
 ## Dashboard
 
-![Dashboard de Logística e Entregas](dashboard.png)
+<p align="center>
+  <img src="projeto.png"
+  width="900">
+</p>"
 
 ## Sobre os dados
 
