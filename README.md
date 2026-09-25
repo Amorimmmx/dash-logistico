@@ -7,7 +7,7 @@ Dashboard desenvolvido para análise de indicadores de logística e entregas, co
 <p align="center>
   <img src="projeto.png"
   width="900">
-</p>"
+</p>
 
 ## Sobre os dados
 
